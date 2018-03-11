@@ -1,6 +1,11 @@
 # Find relation between money and life satisfaction
 
-- Due to limited life index data, we can use this model to predict life satisfaction which we want but miss, such as Cyprus.
+## Conclusion:
+
+- Money and life satisfaciton have a little bit "linear-like" relation. So I choose linear regression to model it simply.
+
+- Due to limited life index data, we can use this model to predict life satisfaction which we want but missing, such as Cyprus.
+
 
 
 #### origin data plot
