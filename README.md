@@ -6,7 +6,10 @@
 #### origin data plot
 <!-- ![Image_of_data](images/original_plot.png) -->
 <img src="images/original_plot.png" height="300px" width="400px">
+
+
 #### regression data plot
+
 <!-- ![Image_of_regression_model](./images/prediction_plot.png) -->
 <img src="images/prediction_plot.png" height="300px" width="400px">
 
