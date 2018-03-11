@@ -1,5 +1,17 @@
-------
+# Find relation between money and life satisfaction
 
+- Due to limited life index data, we can use this model to predict life satisfaction which we want but miss, such as Cyprus.
+
+
+#### origin data plot
+<!-- ![Image_of_data](images/original_plot.png) -->
+<img src="images/original_plot.png" height="300px" width="400px">
+#### regression data plot
+<!-- ![Image_of_regression_model](./images/prediction_plot.png) -->
+<img src="images/prediction_plot.png" height="300px" width="400px">
+
+
+------
 ## Data 
 
 
